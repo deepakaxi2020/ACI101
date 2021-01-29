@@ -12,6 +12,7 @@ class Entry: Codable
     init()
     {
     }
+
     
     init(_ initialTitle: String, _ initialContent: String)
     {
